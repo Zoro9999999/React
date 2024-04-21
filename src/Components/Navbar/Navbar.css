@@ -1,0 +1,34 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    padding: 7px;
+    color: aliceblue;
+}
+.search {
+    width: 50%;
+}
+.search input{
+    height:30px;
+    width:100%;
+  margin-top: 13px;
+}
+        
+.brand{
+    font-weight: 1.5rem;
+    text-align: center;
+    width:20%;
+}
+
+.add{
+    width:40px;
+    height: 30px;
+    margin-top: 15px;
+    margin-right: 150px;
+}
+.icon{
+    width:40px;
+    height: 35px;
+    margin-top: 13px;  
+    margin-right: 100px; 
+}
